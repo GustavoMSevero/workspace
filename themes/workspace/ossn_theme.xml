@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme xmlns="http://www.opensource-socialnetwork.org/theme/v/3.0">
+    <name>Workspace Like Theme</name>
+    <id>workspace</id>
+    <author>Gustavo et Waldir</author>
+    <author_url></author_url>	
+    <description>A responsive workspace type theme for Ossn.</description>
+    <license>GNU General Public License, version 2</license>    
+	<license_url>http://www.opensource-socialnetwork.org/licence</license_url>
+    <version>6.2</version>
+	<requires>
+		<type>ossn_version</type>
+		<version>6.0</version>
+	</requires>
+</theme>
